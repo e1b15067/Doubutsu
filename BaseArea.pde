@@ -14,3 +14,4 @@ class BaseArea extends AbstractArea {
       }
     }
   }
+}
